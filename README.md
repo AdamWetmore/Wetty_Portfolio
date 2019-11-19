@@ -14,10 +14,12 @@ The projects are broken up into a couple of categories based off where I built t
   enjoyed getting a little bit of exercise for my problem solving skills.
   
 # 3. UMN-CSCI
-  As I am a student at the University of Minnesota, I am taking some courses in
-  Computer Science. Contained in this directory are exercises from lecture and
+  I am currently a student at the University of Minnesota and am taking some courses 
+  in Computer Science. Contained in this directory are exercises from lecture and
   coding labs as well as some homework assignments that I found interesting
   or educational.
+  
+# 
   
 As I am relatively new to coding, the code in this repo may not be "Professional
 Quality" but I am constantly working to improve and am encouraged by my growth in
