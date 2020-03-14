@@ -1,0 +1,1 @@
+This was the final project for my Introductory programming class using python. The goal was to learn basic GUI functions using Tkinter. Involved in this directory is a csv file containing the names and stats of the 151 pokemon in the pokedex as well as folder containing their pictures. The csv file and the images folder were provided by the instructor of the course.
